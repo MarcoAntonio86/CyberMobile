@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CyberBank</string>
+    <string name="txt_button_limpar">Logar</string>
+    <string name="txt_button_Cadastrar">Cadastrar</string>
+    <string name="txt_button_Depositar">Depositar</string>
+    <string name="txt_button_Sacar">Sacar</string>
+    <string name="txt_button_Extrato">Extrato</string>
+    <string name="txt_button_Transferencia">Transferencia</string>
+    <string name="txt_button_Logar">Logar</string>
+    <string name="txt_button_logar" />
+    <string name="txt_button_Logar2" />
+    <string name="txt_button_log">Logar</string>
+    <string name="txt_button_Cadastrar2">Cadastrar</string>
+    <string name="txt_button_Depositar2">Depositar</string>
+    <string name="txt_button_sacar2">Sacar</string>
+</resources>
